@@ -4,7 +4,7 @@
 https://drive.google.com/open?id=15DbABDxevC3hk9CNdyiHvAqWhXstsrMX
 
 ### Pushy Panels
-
+Pushy Panels is a modular component that is able to be dragged into any level and work as intended from the get go (Designer would have to rotate it the correct way). It will then spawn panels randomly at the set spawn points on the pushy panels floor and start moving towards the end of the floor. Once the panel hits the end of the floor it will destroy itself and then respawn randomly at one of the spawn floors. If a play were to touch one of the moving panels they would get knocked back and ragdoll.
 
 
 ![alt text](https://github.com/TheHarlander/Comp340_2/blob/master/Images/pushy.png?raw=true)
@@ -18,5 +18,6 @@ Bug fixes played a big part in my contribution to the game. As the game is rathe
 
 
 ### Trello Board
+Originally I completed all of my trello tasks that I set for myself. With everything working like it, I sat down and thought about how I could make this component even better. The future work section is there for future improvements.
 ![alt text](https://github.com/TheHarlander/Comp340_2/blob/master/Images/PushyPanelsTrelloBoard.png?raw=true)
 
