@@ -22,11 +22,11 @@ Pushy Panels is a modular component that is able to be dragged into any level an
 ![alt text](https://github.com/TheHarlander/Comp340_2/blob/master/Images/pushypanel.png?raw=true)
 
 ### Bug Fixes
-Bug fixes played a big part in my contribution to the game. As the game is rather small in the assests and mechanics department. After the inital couple of weeks there wasn't excactly much content to add to the game but to build upon the player and game mdoes. With Tom and Rory doing amazing work for this I was on the side lines assisting wheenver they needed help. This meant that I was able to work with and on a multitude of things throughout the game. In the last week there was many game breaking bugs that had to be fixed before the submission. So I spent this week peer programming with Tom to fix the majority of them. Below you are able to see the extent at which the programmers had to bu fix, with a lot of code bugs being level 5 importance which is game breaking. 
+Bug fixes played a big part in my contribution to the game. As the game is rather small in the assests and mechanics department. After the inital couple of weeks there wasn't excactly much content to add to the game but to build upon the player and game modes. With Tom and Rory doing amazing work for this I was on the side lines assisting wheenver they needed help. This meant that I was able to work with and on a multitude of things throughout the game. In the last week there was many game breaking bugs that had to be fixed before the submission. So I spent this week peer programming with Tom to fix the majority of them. Below you are able to see the extent at which the programmers had to bug fix, with a lot of code bugs being level 5 importance which is game breaking. I also made minor changes to different mechanics when designers needed something doing, such as the cannon being too bouncy and a public variable that can be used to change the velocity in the editor, which was oringally in the thousands and had to be convereted down but still keep the power.
 ![alt text](https://github.com/TheHarlander/Comp340_2/blob/master/Images/BugList.png?raw=true)
 
 
 ### Trello Board
-Originally I completed all of my trello tasks that I set for myself. With everything working like it, I sat down and thought about how I could make this component even better. The future work section is there for future improvements.
+Originally I completed all of my trello tasks that I set for myself. With everything working like it should, I sat down and thought about how I could make this component even better. The future work section is there for future improvements and iterations. 
 ![alt text](https://github.com/TheHarlander/Comp340_2/blob/master/Images/PushyPanelsTrelloBoard.png?raw=true)
 
