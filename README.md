@@ -3,8 +3,18 @@
 ### Link to game:
 https://drive.google.com/open?id=15DbABDxevC3hk9CNdyiHvAqWhXstsrMX
 
+### Contribution
++ Pushy Panels
++ Bug fixes
+  - Multiple camera bugs
+  - Cannon
+  - Intro Movies
+  - UI
+  - Checkpoints
+  
+
 ### Pushy Panels
-Pushy Panels is a modular component that is able to be dragged into any level and work as intended from the get go (Designer would have to rotate it the correct way). It will then spawn panels randomly at the set spawn points on the pushy panels floor and start moving towards the end of the floor. Once the panel hits the end of the floor it will destroy itself and then respawn randomly at one of the spawn floors. If a player were to touch one of the moving panels they would get knocked back and ragdoll.
+Pushy Panels is a modular component that is able to be dragged into any level and work as intended from the get go (Designer would have to rotate it the correct way). It will then spawn panels randomly at the set spawn points on the pushy panels floor and start moving towards the end of the floor. Once the panel hits the end of the floor it will destroy itself and then respawn randomly at one of the spawn floors. If a player were to touch one of the moving panels they would get knocked back and ragdoll. This is just the basis for pushpanels and can be worked on even further for a more complex and enjoyable obstacle, see future work in the trello board for details. A bonus level idea of an endless runner in which here is one long bridge made out of pushy panel floors. The player would start on the left and have to navigate through the panels to be the last one alive. While the players run a kill volume which could be anything from a giant shark to a giant barrel, will follow matching the speed of the first player so that if players fall behind they will die. This is just one of many ideas that can be made from this mechanic.
 
 
 ![alt text](https://github.com/TheHarlander/Comp340_2/blob/master/Images/pushy.png?raw=true)
